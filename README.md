@@ -13,4 +13,8 @@ This project uses a Convolutional Neural Network (CNN) to detect Lumpy Skin Dise
 - OpenCV: Library used for image processing.
 - Matplotlib: Library used for plotting model performance and results.
 
+**Result Page**
+![image](https://github.com/ganeshlmdawda/Lumpy-Skin-Disease-detection-using-CNN/assets/110297511/7d955e0e-b89c-40ce-a4f5-49f2e76532a6)
+![image](https://github.com/ganeshlmdawda/Lumpy-Skin-Disease-detection-using-CNN/assets/110297511/29dd06cf-0fec-4ffd-beca-2d894f64e733)
+
 
